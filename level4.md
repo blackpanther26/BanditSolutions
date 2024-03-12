@@ -1,0 +1,9 @@
+# level4
+- ssh bandit4@bandit.labs.overthewire.org -p 2220
+- password : ```2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe```
+- ls
+- cd inhere
+- ls
+- cat ./*
+- password : ```lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR```
+- exit
