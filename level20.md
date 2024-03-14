@@ -3,7 +3,7 @@
 - password : ```VxCazJaVykI6W36BkBU0mJTCM8rR95XT```
 - ls
 - ./suconnect
-- echo "`VxCazJaVykI6W36BkBU0mJTCM8rR95XT" | netcat -lp 1234 &
-- ./suconnect 1234
-- password : ```gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr```
+- echo "`VxCazJaVykI6W36BkBU0mJTCM8rR95XT" | nc -lp 4000 &
+- ./suconnect 4000
+- password : ```NvEJF7oVjkddltPSrdKEFOllh9V1IBcq```
 - exit
