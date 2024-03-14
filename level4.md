@@ -5,5 +5,6 @@
 - cd inhere
 - ls
 - cat ./*
+> cat ./* will display the contents of all files in the current directory, one after the other
 - password : ```lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR```
 - exit
